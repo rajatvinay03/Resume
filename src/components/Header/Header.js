@@ -8,7 +8,7 @@ function Header() {
   return (
     <div className={styles.backgroundcolor}>
       <div className={styles.container}>
-      <div className={styles.left}>
+      <div>
         <p className={styles.heading}>
           Get a <span>Hassle-Free</span> experience!
         </p>

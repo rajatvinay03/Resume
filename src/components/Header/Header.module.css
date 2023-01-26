@@ -1,5 +1,6 @@
 .container {
     padding: 50px 30px;
+    min-width: 800px;
     margin: 0 auto;
     text-align: center;
     width: 100%;
@@ -32,5 +33,6 @@
   
   .backgroundcolor{
     width: 100%;
+    min-width: 800px;
     background-color: rgb(213, 243, 250);
   }
